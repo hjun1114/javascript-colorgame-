@@ -1,0 +1,35 @@
+body{
+  background-color: #232323;
+}
+
+h1{
+  color: #fff;
+  text-align: center;
+}
+.square {
+  width: 30%;
+  display: inline-block;
+  background: blue;
+  margin: 1%;
+  padding-bottom: 30%;
+}
+div{
+  text-align: center;
+}
+.container {
+  max-width: 711px;
+  display: block;
+  margin: 0 auto;
+}
+span{
+  color: #fff;
+  text-align: center;
+}
+#displayAnswerColor {
+  color: #fff;
+  margin: 0 auto;
+  display: block;
+  text-align: center;
+  font-size: 25px;
+  padding-bottom: 50px;
+}
